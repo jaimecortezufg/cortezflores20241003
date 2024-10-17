@@ -9,6 +9,7 @@
   "author": "Jaime Jeovanny Cortez Flores",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.21.0"
+    "cors": "^2.8.5",
+    "express": "^4.21.1"
   }
 }
